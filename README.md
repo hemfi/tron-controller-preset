@@ -7,5 +7,6 @@ Inspiration: [Tron Style Input Display](https://www.google.com/search?q=tron+sty
 
 
 ### How to setup: 
-1. Pick either `tron_gamepad_xbox.png` or `tron_gamepad_playstation.png` and put it into the `Overlay image file` section in source settings,
-2. Put `tron_gamepad.json` into the `Overlay config file` section in source settings.
+1. Download through `Code` -> `Download ZIP` (or by clicking [this](https://github.com/hemfi/tron-controller-preset/archive/refs/heads/main.zip)) 
+2. Pick either `tron_gamepad_xbox.png` or `tron_gamepad_playstation.png` and put it into the `Overlay image file` section in source settings,
+3. Put `tron_gamepad.json` into the `Overlay config file` section in source settings.
