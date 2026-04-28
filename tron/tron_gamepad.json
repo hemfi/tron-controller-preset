@@ -1,0 +1,288 @@
+{
+    "default_width": 0,
+    "default_height": 0,
+    "space_h": 0,
+    "space_v": 0,
+    "flags": 6,
+    "overlay_width": 1766,
+    "overlay_height": 614,
+    "elements": [
+        {
+            "type": 0,
+            "pos": [
+                0,
+                0
+            ],
+            "id": "background",
+            "z_level": 0,
+            "mapping": [
+                0,
+                357,
+                1766,
+                614
+            ]
+        },
+        {
+            "type": 2,
+            "pos": [
+                1496,
+                425
+            ],
+            "id": "A",
+            "z_level": 1,
+            "mapping": [
+                1,
+                1,
+                116,
+                116
+            ],
+            "code": 0
+        },
+        {
+            "type": 2,
+            "pos": [
+                1610,
+                309
+            ],
+            "id": "B",
+            "z_level": 1,
+            "mapping": [
+                118,
+                1,
+                116,
+                116
+            ],
+            "code": 1
+        },
+        {
+            "type": 2,
+            "pos": [
+                1375,
+                308
+            ],
+            "id": "X",
+            "z_level": 1,
+            "mapping": [
+                235,
+                1,
+                116,
+                116
+            ],
+            "code": 2
+        },
+        {
+            "type": 2,
+            "pos": [
+                1492,
+                192
+            ],
+            "id": "Y",
+            "z_level": 1,
+            "mapping": [
+                352,
+                1,
+                116,
+                116
+            ],
+            "code": 3
+        },
+        {
+            "type": 2,
+            "pos": [
+                157,
+                410
+            ],
+            "id": "DPAD_DOWN",
+            "z_level": 1,
+            "mapping": [
+                469,
+                1,
+                116,
+                116
+            ],
+            "code": 12
+        },
+        {
+            "type": 2,
+            "pos": [
+                154,
+                194
+            ],
+            "id": "DPAD_UP",
+            "z_level": 1,
+            "mapping": [
+                586,
+                0,
+                116,
+                116
+            ],
+            "code": 11
+        },
+        {
+            "type": 2,
+            "pos": [
+                258,
+                302
+            ],
+            "id": "DPAD_RIGHT",
+            "z_level": 1,
+            "mapping": [
+                703,
+                0,
+                116,
+                116
+            ],
+            "code": 14
+        },
+        {
+            "type": 2,
+            "pos": [
+                52,
+                303
+            ],
+            "id": "gamepad button8",
+            "z_level": 1,
+            "mapping": [
+                820,
+                0,
+                116,
+                116
+            ],
+            "code": 13
+        },
+        {
+            "type": 2,
+            "pos": [
+                360,
+                521
+            ],
+            "id": "BACK",
+            "z_level": 1,
+            "mapping": [
+                937,
+                1,
+                100,
+                43
+            ],
+            "code": 4
+        },
+        {
+            "type": 2,
+            "pos": [
+                1306,
+                521
+            ],
+            "id": "START",
+            "z_level": 1,
+            "mapping": [
+                937,
+                1,
+                100,
+                43
+            ],
+            "code": 6
+        },
+        {
+            "type": 2,
+            "pos": [
+                473,
+                72
+            ],
+            "id": "BUMPER_LEFT",
+            "z_level": 1,
+            "mapping": [
+                937,
+                92,
+                143,
+                43
+            ],
+            "code": 9
+        },
+        {
+            "type": 2,
+            "pos": [
+                1150,
+                73
+            ],
+            "id": "BUMPER_RIGHT",
+            "z_level": 1,
+            "mapping": [
+                937,
+                92,
+                143,
+                43
+            ],
+            "code": 10
+        },
+        {
+            "type": 6,
+            "pos": [
+                46,
+                73
+            ],
+            "id": "TRIGGER_LEFT",
+            "z_level": 1,
+            "mapping": [
+                937,
+                182,
+                375,
+                43
+            ],
+            "direction": 4,
+            "trigger_mode": false,
+            "side": 0
+        },
+        {
+            "type": 6,
+            "pos": [
+                1345,
+                73
+            ],
+            "id": "TRIGGER_RIGHT",
+            "z_level": 1,
+            "mapping": [
+                937,
+                182,
+                375,
+                43
+            ],
+            "direction": 3,
+            "trigger_mode": false,
+            "side": 1
+        },
+        {
+            "type": 5,
+            "pos": [
+                575,
+                259
+            ],
+            "id": "ANALOG_LEFT",
+            "z_level": 1,
+            "mapping": [
+                1313,
+                1,
+                176,
+                176
+            ],
+            "stick_radius": 135,
+            "side": 0
+        },
+        {
+            "type": 5,
+            "pos": [
+                1020,
+                259
+            ],
+            "id": "ANALOG_RIGHT",
+            "z_level": 1,
+            "mapping": [
+                1313,
+                1,
+                176,
+                176
+            ],
+            "stick_radius": 135,
+            "side": 1
+        }
+    ]
+}
